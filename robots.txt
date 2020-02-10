@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aengohwool.teaandtalk.org/sitemap.xml
